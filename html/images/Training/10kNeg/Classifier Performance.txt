@@ -1,0 +1,10 @@
+Initial classifier performance on train data:
+  accuracy:   0.999
+  true  positive rate: 0.401
+  false positive rate: 0.000
+  true  negative rate: 0.598
+  false negative rate: 0.000
+vl_hog: descriptor: [6 x 6 x 31]
+vl_hog: glyph image: [126 x 126]
+vl_hog: number of orientations: 9
+vl_hog: variant: UOCTTI
